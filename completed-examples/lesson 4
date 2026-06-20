@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+// 3. Introducción a la POO: Nuestra clase molde
+class Pet {
+    String name;
+}
+
+public class Main {
+    
+    // 1. Métodos: Nuestro bloque reutilizable
+    public static void greet() {
+        System.out.println("¡Bienvenido a tu primera mascota virtual!");
+    }
+
+    public static void main(String[] args) {
+        // Llamamos al método
+        greet();
+        
+        // 2. Entrada/Salida: Usando Scanner
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("¿Qué nombre le pondrás a tu mascota? ");
+        
+        // Creamos el objeto y le asignamos el nombre
+        Pet miMascota = new Pet();
+        miMascota.name = scanner.nextLine();
+        
+        System.out.println("¡Genial! Tu mascota " + miMascota.name + " está lista para jugar.");
+    }
+}
