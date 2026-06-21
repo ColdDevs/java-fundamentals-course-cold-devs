@@ -50,7 +50,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit]([https://replit.com/@your-lesson5](https://onlinegdb.com/yNJX3new07)) |
+| 5 | Programa OOP | [OnlineGDB](https://onlinegdb.com/yNJX3new07) |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - Compartir: #JavaBeginners
