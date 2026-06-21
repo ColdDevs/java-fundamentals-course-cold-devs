@@ -27,7 +27,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace**: https://youtu.be/xTIxYvbSSGc
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [https://onlinegdb.com/your-gdb-id](https://www.onlinegdb.com/) 👈 **¡No necesitas registrarte!**
+- **Práctica**: https://www.onlinegdb.com/ 👈 **¡No necesitas registrarte!**
 ### Lección 5: Fundamentos de POO y programas sencillos (16 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: https://youtu.be/xTZ4oc8VQlU
