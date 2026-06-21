@@ -40,7 +40,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Compartir tu trabajo**: https://forms.gle/nbdYwxS51wQdCpEP6
 ## Recursos adicionales
 
-- **Código Fuente Completo:** https://github.com/ColdDevs/java-fundamentals-course-cold-devs
+- **Código Fuente Completo:** https://onlinegdb.com/sJdpZ4AcA
 
 - **Todas las actividades prácticas:**
 
