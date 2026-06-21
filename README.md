@@ -40,7 +40,8 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Compartir tu trabajo**: https://forms.gle/nbdYwxS51wQdCpEP6
 ## Recursos adicionales
 
-- **Código Fuente Completo:** https://onlinegdb.com/sJdpZ4AcA
+- **Repositorio con el código fuente completo:** https://github.com/ColdDevs/java-fundamentals-course-cold-devs
+- **Archivo de OnlineGDB con el código fuente completo:** https://onlinegdb.com/sJdpZ4AcA
 
 - **Todas las actividades prácticas:**
 
@@ -52,7 +53,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 | 4 | Métodos y clases | https://onlinegdb.com/ucJtJcOYX |
 | 5 | Programa OOP | https://onlinegdb.com/yNJX3new07 |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: https://docs.google.com/forms/d/e/1FAIpQLSc28_FCRqELve7epu4r4_J20H8WDNai6rNsxOCeuy7g4KCM3w/viewform
 - Compartir: #JavaBeginners
 ## 👥 Elaboración
 - Universidad Peruana de Ciencias Aplicadas
