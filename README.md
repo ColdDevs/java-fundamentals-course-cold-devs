@@ -15,7 +15,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/uG1TsBy8jFQ)
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
 - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
