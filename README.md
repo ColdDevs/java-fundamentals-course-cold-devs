@@ -10,7 +10,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/Groi02HnAqs)
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
 ### Lección 2: Variables y tipos de datos (8 minutos)
