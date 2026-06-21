@@ -22,7 +22,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://youtu.be/CUuM_Li5W-8)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.onlinegdb.com/) 👈 **¡Inicio inmediato!**
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - **Enlace**: [Ver la lección](https://youtu.be/xTIxYvbSSGc)
