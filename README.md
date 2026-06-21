@@ -35,9 +35,9 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Proyecto final**: https://www.onlinegdb.com/ 👈 **¡Guarda tu app y compartelo en el formulario de la siguiente lección!**
 ### Lección 6: Consejos y próximos pasos (6 minutos)
 - **Descripción**: Mejores prácticas, errores comunes en POO y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: https://youtu.be/KjdTKPgh79o
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java y seguir desde ya las buenas prácticas.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: https://forms.gle/nbdYwxS51wQdCpEP6
 ## Recursos adicionales
 
 - **Código Fuente Completo:** https://github.com/ColdDevs/java-fundamentals-course-cold-devs
