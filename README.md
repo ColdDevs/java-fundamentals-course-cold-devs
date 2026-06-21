@@ -48,7 +48,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 |---|---|---|
 | 1 | Hola mundo | https://www.onlinegdb.com/-h9zjU__vv |
 | 2 | Variables | https://onlinegdb.com/v9CShHEXx |
-| 3 | Bucles | https://jdoodle.com/execute-java-online/your-lesson3 |
+| 3 | Bucles | https://onlinegdb.com/QU_X_VAFy |
 | 4 | Métodos y clases | https://onlinegdb.com/ucJtJcOYX |
 | 5 | Programa OOP | https://onlinegdb.com/yNJX3new07 |
 
