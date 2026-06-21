@@ -9,15 +9,15 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **📂 Repositorio de Código Fuente**: [https://github.com/ColdDevs/java-fundamentals-course-cold-devs](https://github.com/ColdDevs/java-fundamentals-course-cold-devs)
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
-- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
+- **Descripción**: Aprende qué es la programación, cómo está presente en nuestra vida diaria y por qué Java es uno de los mejores lenguajes para comenzar.
 - **Enlace**: [Ver la lección](https://youtu.be/Groi02HnAqs)
-- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Conclusiones clave**: La programación consiste en dar instrucciones a una computadora y Java es un lenguaje versátil utilizado para crear aplicaciones, juegos y sistemas.
+- **Práctica**: [Clic para programar](https://www.onlinegdb.com/) 👈 **¡Inicio inmediato!**
 ### Lección 2: Variables y tipos de datos (8 minutos)
-- **Descripción**: Aprende a almacenar datos en Java usando variables.
+- **Descripción**: Aprende a almacenar información utilizando variables y los principales tipos de datos en Java.
 - **Enlace**: [Ver la lección](https://youtu.be/uG1TsBy8jFQ)
-- **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Conclusiones clave**: Las variables permiten guardar información. Java utiliza tipos como int, String, double y boolean para representar distintos datos.
+- **Práctica**: [Clic para programar](https://www.onlinegdb.com/) 👈 **¡Inicio inmediato!**
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://youtu.be/CUuM_Li5W-8)
